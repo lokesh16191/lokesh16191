@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @lokesh16191 (Lokesh Verma)
-- 👀 I’m interested in developing simple Tools/Scripts that reduce mannual the efforts.
+- 👀 I’m interested in developing simple Tools/Scripts that reduce the mannual efforts.
 - 🌱 I’m currently learning Java and Python
 - 📫 Reach me on: [Gmail] | [Facebook] | [Linkedin]
 
